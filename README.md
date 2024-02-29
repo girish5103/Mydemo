@@ -1,4 +1,4 @@
 # Mydemo
 This is my first Git Repository
 <br>
-Author - Girish C
+Author - Girish Chandrashekar
